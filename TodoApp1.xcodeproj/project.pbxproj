@@ -13,6 +13,7 @@
 		F89F41932566BD9C0079FEA1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F89F41912566BD9C0079FEA1 /* Main.storyboard */; };
 		F89F41952566BD9C0079FEA1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F89F41942566BD9C0079FEA1 /* Assets.xcassets */; };
 		F89F41982566BD9C0079FEA1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F89F41962566BD9C0079FEA1 /* LaunchScreen.storyboard */; };
+		F89F41A12566C01E0079FEA1 /* EntryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89F41A02566C01E0079FEA1 /* EntryViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F89F41942566BD9C0079FEA1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F89F41972566BD9C0079FEA1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F89F41992566BD9C0079FEA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F89F41A02566C01E0079FEA1 /* EntryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntryViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F89F418B2566BD9C0079FEA1 /* AppDelegate.swift */,
 				F89F418D2566BD9C0079FEA1 /* SceneDelegate.swift */,
 				F89F418F2566BD9C0079FEA1 /* ViewController.swift */,
+				F89F41A02566C01E0079FEA1 /* EntryViewController.swift */,
 				F89F41912566BD9C0079FEA1 /* Main.storyboard */,
 				F89F41942566BD9C0079FEA1 /* Assets.xcassets */,
 				F89F41962566BD9C0079FEA1 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F89F41902566BD9C0079FEA1 /* ViewController.swift in Sources */,
+				F89F41A12566C01E0079FEA1 /* EntryViewController.swift in Sources */,
 				F89F418C2566BD9C0079FEA1 /* AppDelegate.swift in Sources */,
 				F89F418E2566BD9C0079FEA1 /* SceneDelegate.swift in Sources */,
 			);
